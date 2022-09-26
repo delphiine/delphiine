@@ -40,4 +40,4 @@
 <br />
 
 ## GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-![Delphine's stats](https://github-readme-stats.vercel.app/api?username=delphiine&show_icons=true&theme=buefy&count_private=true&hide=stars&hide_title=true&hide_border=true&custom_title=statistics&line_height=35&card_width=360)
+![Delphine's stats](https://github-readme-stats.vercel.app/api?username=delphiine&show_icons=true&theme=buefy&count_private=true&hide=stars&hide_title=true&hide_border=true&custom_title=statistics&line_height=35&card_width=370)
