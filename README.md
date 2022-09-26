@@ -2,10 +2,11 @@
   𝐇𝐞𝐥𝐥𝐨, welcome! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
   <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=delphiine&style=flat-square&color=blue" alt=""/>
-  <a href="https://www.linkedin.com/in/delphine-mubiligi/">
+  <a href="https://www.linkedin.com/in/delphine-mubiligi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Badge"/>
   </a>
 </div>
+<br />
 </h1>
 
 - 🔭 I’m currently working on completing Udemy Python course and improving React skills
@@ -36,3 +37,7 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
+<br />
+
+## GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+![Delphine's stats](https://github-readme-stats.vercel.app/api?username=delphiine&show_icons=true&theme=buefy&count_private=true&hide=stars&hide_title=true&hide_border=true&custom_title=statistics&line_height=35&card_width=360)
