@@ -9,9 +9,9 @@
 <br />
 </h1>
 
-- 🔭 I’m currently working on completing Udemy Python course and improving React skills
+- 🔭 I’m currently working on improving React skills
 - 🌱 I’m currently learning React, Python and SQL
-- 👯 I’m looking to collaborate on Full-Stack projects
+- 👯 I’m looking to collaborate on Front-End and Full-Stack projects
 - 🤔 I’m looking for my first Software Engineering role
 - 💬 Ask me about anything, I am happy to help!
 - 😄 Pronouns: She/Her
